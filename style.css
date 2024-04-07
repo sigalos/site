@@ -163,7 +163,6 @@ transition: 2s;
 #radio4:checked ~.navigation-auto .auto-btn4 {
     background-color: var(--cor3);
 }
-
 @media (max-width: 450px) {
     .whatsapp {
         width: 100px;
