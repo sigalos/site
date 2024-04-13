@@ -49,7 +49,7 @@ div.texto {
 
 
 p {
-    margin: 30px;
+    margin: 20px;
     text-align: justify;
     text-decoration: none;
     padding: 3px;
@@ -165,12 +165,12 @@ transition: 2s;
 }
 @media (max-width: 450px) {
     .whatsapp {
-        width: 100px;
+        width: 140px;
     }
 
     div.texto {
         margin-left: 20px;
-        font-size: 30px;
+        font-size: 35px;
     }
 
     .slider {
